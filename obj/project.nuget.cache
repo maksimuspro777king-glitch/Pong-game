@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X794hWyD8cQ=",
+  "success": true,
+  "projectFilePath": "/home/maski/c#/c#.csproj",
+  "expectedPackageFiles": [
+    "/home/maski/.nuget/packages/microsoft.dotnet.ilcompiler/10.0.14/microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512",
+    "/home/maski/.nuget/packages/microsoft.net.illink.tasks/10.0.14/microsoft.net.illink.tasks.10.0.14.nupkg.sha512",
+    "/home/maski/.nuget/packages/raylib-cs/8.1.0/raylib-cs.8.1.0.nupkg.sha512",
+    "/home/maski/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/10.0.14/runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
